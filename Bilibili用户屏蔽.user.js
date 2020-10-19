@@ -2,12 +2,13 @@
 // @name                Bilibili用户屏蔽
 // @name:zh-CN          Bilibili用户屏蔽
 // @namespace           http://tampermonkey.net/
-// @version             0.0.1
+// @version             0.0.2
 // @description         try to take over the world!
 // @description:zh-CN   屏蔽在线和排行中不喜欢的UP主
 // @author              Slasher Liang
 // @match               *://www.bilibili.com/video/online*
 // @match               *://www.bilibili.com/ranking*
+// @match               *://www.bilibili.com/v/popular/rank/*
 // @grant               none
 // ==/UserScript==
 
