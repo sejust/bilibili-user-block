@@ -8,6 +8,7 @@
 // @author              Slasher Liang
 // @match               *://www.bilibili.com/video/online*
 // @match               *://www.bilibili.com/ranking*
+// @match               *://www.bilibili.com/v/popular/rank/*
 // @grant               none
 // ==/UserScript==
 
